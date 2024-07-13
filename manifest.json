@@ -1,0 +1,9 @@
+{
+  "domain": "regensensor",
+  "name": "Regensensor",
+  "version": "1.0",
+  "documentation": "https://github.com/mvlaanderen/Regensensor",
+  "requirements": ["requests"],
+  "dependencies": [],
+  "codeowners": ["@mvlaanderen"]
+}
